@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(255, 255, 255);
 }
 
 h1 {
@@ -7,10 +7,11 @@ h1 {
   text-align: center;
 }
 h2 {
-  color: rgb(0, 0, 0);
+  color: rgb(0, 255, 213);
+  
 }
 
 p {
   font-family: verdana;
-  font-size: 25px;
+  font-size: 20px;
 }
